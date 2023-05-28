@@ -1,4 +1,4 @@
-# Recommenda a book using NearestNeighbors
+ Choose a book using NearestNeighbors.
 
-# Installation  `pip install scikit-learn`
+ **Installation**  `pip install scikit-learn`.
 
